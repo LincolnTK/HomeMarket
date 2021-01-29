@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "347231741330",
+    "firebase_url": "https://home-market-23249.firebaseio.com",
+    "project_id": "home-market-23249",
+    "storage_bucket": "home-market-23249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347231741330:android:36dbd209fd92070d3acd4b",
+        "android_client_info": {
+          "package_name": "munlinc.systems.homemarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347231741330-r0oal66782o7i01jh6lmalc2o100s4pk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "munlinc.systems.homemarket",
+            "certificate_hash": "93785d5d5a9e91af190cedd7e002f636c042ca0c"
+          }
+        },
+        {
+          "client_id": "347231741330-i4or24p58eqfjtsfuv28r699ucagqckb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK8ajtJyHw4LbWV8K24T8nQYhJrRlCTFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347231741330-i4or24p58eqfjtsfuv28r699ucagqckb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
